@@ -1,0 +1,11 @@
+upstream-rar-use-after-free.patch
+upstream-rar-uaf-test-eof.patch
+upstream-rar-window-mask.patch
+upstream-rar-window-test.patch
+upstream-rar-filter-beyond.patch
+upstream-archive-read-sparse.patch
+upstream-archive-clean.patch
+upstream-doc-7zip-zip.patch
+upstream-open-without-openat.patch
+upstream-lz4-uint32.patch
+typos.patch
