@@ -2,7 +2,7 @@ Source: libarchive
 Priority: optional
 Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
 XSBC-Original-Maintainer: Peter Pentchev <roam@debian.org>
-Build-Depends: debhelper-compat (= 12),
+Build-Depends: debhelper-compat (= 11),
                pkg-config,
                libbz2-dev,
                liblz4-dev,
