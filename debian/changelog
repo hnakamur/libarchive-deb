@@ -1,3 +1,10 @@
+libarchive (3.4.0-1ubuntu1ppa1~bionic) bionic; urgency=medium
+
+  * Change debian-branch in debian/gbp.conf to bionic
+  * Lower debhelper-compat mimimum version to 11
+
+ -- Hiroaki Nakamura <hnakamur@gmail.com>  Wed, 22 Jan 2020 01:30:41 +0900
+
 libarchive (3.4.0-1build1) focal; urgency=medium
 
   * No-change rebuild against libnettle7
